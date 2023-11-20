@@ -1,5 +1,5 @@
 {
-    "name": "adldap2/adldap2",
+    "name": "hsnapps/adldap2",
     "type": "library",
     "description": "A PHP LDAP Package for humans.",
     "keywords": [
@@ -13,20 +13,20 @@
     ],
     "license": "MIT",
     "support": {
-        "docs": "https://github.com/Adldap2/Adldap2/blob/master/readme.md",
-        "issues": "https://github.com/Adldap2/Adldap2/issues",
-        "source": "https://github.com/Adldap2/Adldap2",
-        "email": "steven_bauman@outlook.com"
+        "docs": "https://github.com/hsnapps/Adldap2/blob/master/readme.md",
+        "issues": "https://github.com/hsnapps/Adldap2/issues",
+        "source": "https://github.com/hsnapps/Adldap2",
+        "email": "hasanabb@hotmail.com"
     },
     "authors": [
         {
-            "name": "Steve Bauman",
-            "email": "steven_bauman@outlook.com",
+            "name": "Hassan Ba Abdullah",
+            "email": "hasanabb@hotmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=8.0",
         "ext-ldap": "*",
         "ext-json": "*",
         "psr/log": "^1.0|^2.0|^3.0",

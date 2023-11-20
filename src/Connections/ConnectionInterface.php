@@ -120,7 +120,7 @@ interface ConnectionInterface
      *
      * @link http://php.net/manual/en/function.ldap-get-entries.php
      *
-     * @param resource $searchResult
+     * @param \LDAP\Result $searchResult
      *
      * @return mixed
      */
@@ -131,7 +131,7 @@ interface ConnectionInterface
      *
      * @link http://php.net/manual/en/function.ldap-count-entries.php
      *
-     * @param resource $searchResult
+     * @param \LDAP\Result $searchResult
      *
      * @return int
      */
@@ -155,7 +155,7 @@ interface ConnectionInterface
      *
      * @link http://php.net/manual/en/function.ldap-first-entry.php
      *
-     * @param resource $searchResult
+     * @param \LDAP\Result $searchResult
      *
      * @return mixed
      */
@@ -472,7 +472,7 @@ interface ConnectionInterface
      *
      * @link https://www.php.net/manual/en/function.ldap-free-result.php
      *
-     * @param resource $result
+     * @param \LDAP\Result $result
      *
      * @return bool
      */
