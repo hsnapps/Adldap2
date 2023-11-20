@@ -1,21 +1,4 @@
-<h3 align="center">
-<strong>:warning: Project No Longer Maintained :warning:</strong>
-</h3>
-
-<p align="center">
-Consider migrating to its direct replacement
-<a href="https://github.com/DirectoryTree/LdapRecord" target="_blank" title="LdapRecord GitHub Repository">LdapRecord</a>.
-</p>
-
-<p align="center">
-<strong>
-<a href="https://stevebauman.ca/why-ldap-record/">Read Why</a>
-</strong>
-</p>
-
-<hr/>
-
-<h1 align="center">Adldap2</h1>
+<h1 align="center">Adldap2 PHP 8</h1>
 
 <p align="center">
     <a href="https://github.com/Adldap2/Adldap2/actions"><img src="https://img.shields.io/github/workflow/status/adldap2/adldap2/Tests.svg?style=flat-square"/></a>
@@ -35,11 +18,11 @@ Consider migrating to its direct replacement
     <a href="http://adldap2.github.io/Adldap2/">Documentation</a>
 </h4>
 
--   **Up and running in minutes.** Effortlessly connect to your LDAP servers and start running queries & operations in a matter of minutes.
+- **Up and running in minutes.** Effortlessly connect to your LDAP servers and start running queries & operations in a matter of minutes.
 
--   **Fluent query builder.** Building LDAP queries has never been so easy. Find the records you're looking for in a couple lines or less with a fluent interface.
+- **Fluent query builder.** Building LDAP queries has never been so easy. Find the records you're looking for in a couple lines or less with a fluent interface.
 
--   **Supercharged Active Record.** Create and modify LDAP records with ease. All LDAP records are individual models. Simply modify the attributes on the model and save it to persist the changes to your LDAP server.
+- **Supercharged Active Record.** Create and modify LDAP records with ease. All LDAP records are individual models. Simply modify the attributes on the model and save it to persist the changes to your LDAP server.
 
 ---
 
